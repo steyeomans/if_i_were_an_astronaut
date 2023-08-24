@@ -1,0 +1,12 @@
+.chart {
+    width: 100%;
+    max-width: 600px;
+    background-color:white;
+    border-radius: 5px;
+}
+
+.fork {
+    position: fixed;
+    left: 0;
+    top: 0;
+}
